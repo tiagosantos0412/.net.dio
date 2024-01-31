@@ -1,0 +1,14 @@
+C:\Curso .NET\Dio.me\Fundamentos\bin\Debug\net8.0\Fundamentos.exe
+C:\Curso .NET\Dio.me\Fundamentos\bin\Debug\net8.0\Fundamentos.deps.json
+C:\Curso .NET\Dio.me\Fundamentos\bin\Debug\net8.0\Fundamentos.runtimeconfig.json
+C:\Curso .NET\Dio.me\Fundamentos\bin\Debug\net8.0\Fundamentos.dll
+C:\Curso .NET\Dio.me\Fundamentos\bin\Debug\net8.0\Fundamentos.pdb
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfo.cs
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\Fundamentos.dll
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\refint\Fundamentos.dll
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\Fundamentos.pdb
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\Fundamentos.genruntimeconfig.cache
+C:\Curso .NET\Dio.me\Fundamentos\obj\Debug\net8.0\ref\Fundamentos.dll

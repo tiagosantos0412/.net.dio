@@ -1,0 +1,14 @@
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\bin\Debug\net8.0\1.1 - Sintaxe e Identação.exe
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\bin\Debug\net8.0\1.1 - Sintaxe e Identação.deps.json
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\bin\Debug\net8.0\1.1 - Sintaxe e Identação.runtimeconfig.json
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\bin\Debug\net8.0\1.1 - Sintaxe e Identação.dll
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\bin\Debug\net8.0\1.1 - Sintaxe e Identação.pdb
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\1.1 - Sintaxe e Identação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\1.1 - Sintaxe e Identação.AssemblyInfoInputs.cache
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\1.1 - Sintaxe e Identação.AssemblyInfo.cs
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\1.1 - Sintaxe e Identação.csproj.CoreCompileInputs.cache
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\1.1 - Sintaxe e Identação.dll
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\refint\1.1 - Sintaxe e Identação.dll
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\1.1 - Sintaxe e Identação.pdb
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\1.1 - Sintaxe e Identação.genruntimeconfig.cache
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.1 - Sintaxe e Identação\obj\Debug\net8.0\ref\1.1 - Sintaxe e Identação.dll

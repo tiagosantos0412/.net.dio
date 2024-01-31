@@ -1,0 +1,14 @@
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\1.2 - Tipos de Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\1.2 - Tipos de Operadores.AssemblyInfoInputs.cache
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\1.2 - Tipos de Operadores.AssemblyInfo.cs
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\1.2 - Tipos de Operadores.csproj.CoreCompileInputs.cache
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\bin\Debug\net8.0\1.2 - Tipos de Operadores.exe
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\bin\Debug\net8.0\1.2 - Tipos de Operadores.deps.json
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\bin\Debug\net8.0\1.2 - Tipos de Operadores.runtimeconfig.json
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\bin\Debug\net8.0\1.2 - Tipos de Operadores.dll
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\bin\Debug\net8.0\1.2 - Tipos de Operadores.pdb
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\1.2 - Tipos de Operadores.dll
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\refint\1.2 - Tipos de Operadores.dll
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\1.2 - Tipos de Operadores.pdb
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\1.2 - Tipos de Operadores.genruntimeconfig.cache
+C:\Curso .NET\Dio.me\1 - Sintaxe e Tipos de Dados em c#\1.2 - Tipos de Operadores\obj\Debug\net8.0\ref\1.2 - Tipos de Operadores.dll
